@@ -3,8 +3,8 @@ package server
 import (
 	"fmt"
 
-	"github.com/stphivos/todo-api-go-grpc/models"
-	"github.com/stphivos/todo-api-go-grpc/server/grpc"
+	"github.com/loderosier/todo-api-go-grpc/models"
+	"github.com/loderosier/todo-api-go-grpc/server/grpc"
 )
 
 // Runner ...

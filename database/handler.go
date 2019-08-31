@@ -3,8 +3,8 @@ package database
 import (
 	"fmt"
 
-	"github.com/stphivos/todo-api-go-grpc/database/mongo"
-	"github.com/stphivos/todo-api-go-grpc/models"
+	"github.com/loderosier/todo-api-go-grpc/database/mongo"
+	"github.com/loderosier/todo-api-go-grpc/models"
 )
 
 // Handler ...

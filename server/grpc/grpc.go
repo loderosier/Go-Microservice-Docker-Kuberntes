@@ -5,8 +5,8 @@ import (
 	"log"
 	"net"
 
-	"github.com/stphivos/todo-api-go-grpc/database"
-	"github.com/stphivos/todo-api-go-grpc/models"
+	"github.com/loderosier/todo-api-go-grpc/database"
+	"github.com/loderosier/todo-api-go-grpc/models"
 	"golang.org/x/net/context"
 	"google.golang.org/grpc"
 )

@@ -3,7 +3,7 @@ package mongo
 import (
 	"fmt"
 
-	"github.com/stphivos/todo-api-go-grpc/models"
+	"github.com/loderosier/todo-api-go-grpc/models"
 	"gopkg.in/mgo.v2"
 )
 

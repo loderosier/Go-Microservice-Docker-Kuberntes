@@ -5,8 +5,8 @@ import (
 
 	"github.com/jinzhu/configor"
 	"github.com/joho/godotenv"
-	"github.com/stphivos/todo-api-go-grpc/models"
-	"github.com/stphivos/todo-api-go-grpc/server"
+	"github.com/loderosier/todo-api-go-grpc/models"
+	"github.com/loderosier/todo-api-go-grpc/server"
 )
 
 func main() {
